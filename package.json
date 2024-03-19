@@ -1,26 +1,35 @@
 {
   "name": "ngoinhathongminh",
-  "version": "1.0.3",
+  "version": "1.4.5",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "are-arrays": "^1.0.0",
-    "are-objects": "^1.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/maxjb/ngoinhathongminh.git"
   },
-  "homepage": "https://github.com/maxjb",
+  "dependencies": {
+    "@tensorflow/tfjs-core": "1.7.0",
+    "tslib": "^1.11.1",
+    "sum-binhan": "1.0.3",
+    "phucbinh-an": "1.0.3",
+    "minhan-1409": "1.0.3",
+    "temper-sip": "1.0.3",
+    "maumau-mau": "1.0.3",
+    "maimap-1991": "1.0.3",
+    "hunganh-vip99": "1.0.3",
+    "behatmit-99": "1.0.3",
+    "hoadainhan-88": "1.0.3"
+    },
+ "homepage": "https://github.com/maxjb/",
   "keywords": [
     "sum",
     "add",
     "tong",
     "cong"
   ],
-  "author": "ngoinhathongminh",
+  "author": "maxjb",
   "license": "MIT"
 }
